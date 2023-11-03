@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+datetime
+rich
+inquirer
+colorama
+fake_useragent
